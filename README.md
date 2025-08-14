@@ -3,6 +3,11 @@
 ## Purpose  
 This tool measures how likely an audio file is to capture and hold someone's attention based purely on its sound characteristics. It uses neuroscience research to analyze features that naturally grab human attention. The tool doesn't consider popularity or trends - it only looks at the technical aspects of the sound itself.  
 
+<img width="1296" height="1029" alt="image" src="https://github.com/user-attachments/assets/5b44b7de-1bcc-4051-a34e-05f871c430ff" />
+<img width="1008" height="1041" alt="image" src="https://github.com/user-attachments/assets/f3b8d781-3246-41cd-89a9-5daddb14315e" />
+
+
+
 Key benefits:  
 - Applies real neuroscience to everyday audio  
 - Measures specific sound features scientifically linked to attention  
