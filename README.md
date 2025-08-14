@@ -110,5 +110,3 @@ The tool is based on studies from:
 - And 20+ other peer-reviewed sources  
 
 (Complete reference list available in the references documentation)  
-
-This plain text version keeps all the key information while removing formatting for maximum readability. You can copy this directly or use it as a base for your README file.
