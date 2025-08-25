@@ -1,4 +1,4 @@
-# Audio Attention Prediction Analysis Tool  
+# Audio Attention Prediction Analysis Tool [Unreliable]
 
 ## Purpose  
 This tool measures how likely an audio file is to capture and hold someone's attention based purely on its sound characteristics. It uses neuroscience research to analyze features that naturally grab human attention. The tool doesn't consider popularity or trends - it only looks at the technical aspects of the sound itself.  
